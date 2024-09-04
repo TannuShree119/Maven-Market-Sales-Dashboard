@@ -11,7 +11,7 @@ This dashboard provides a comprehensive overview of sales performance for Maven 
 3. Weekly Revenue Trending: A line chart showing revenue trends over time.
 4. Revenue vs Target: A gauge indicating how current revenue compares to the target.
 
-     ![image_2024-09-04_17-27-05](https://github.com/user-attachments/assets/b9d4bb07-75c6-4762-9f72-87b2dc1e01ef)
+   
 
 
 ## Installation and Setup
